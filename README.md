@@ -1,2 +1,0 @@
-# varAndLetForLoopDiff
-Created with CodeSandbox
